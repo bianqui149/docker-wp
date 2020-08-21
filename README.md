@@ -6,3 +6,5 @@ Or create an alias
 cd $HOME
 $  vi .bash_profile
 alias wp="docker-compose run --rm wpcli"
+
+chmod +x ./export.sh
