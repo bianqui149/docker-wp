@@ -1,4 +1,4 @@
-FROM wordpress:5.4.2-php7.4-apache
+FROM wordpress:5.9.1-php7.4-apache
 
 # Enable apache mod_header
 RUN cd /etc/apache2/mods-enabled/
